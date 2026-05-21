@@ -22,10 +22,12 @@
 
 ## 🚀 Projects  
 
-### AI-Powered Healthcare Claim Fraud Detection System
+### AI-Powered Healthcare Claim Fraud Detection System (Aug 2025 - Oct 2025)
 - Built PySpark pipeline merging 14.6M CMS Open Payments and Medicare Part D, aggregating into 1.38M prescriber-level features for classification.
 -  Modeled rule-based risk scoring (payment-to-cost ratios, opioid volumes, peer deviation), tiering prescribers into 3 categories addressing class imbalance.
 - Trained Gradient Boosted Trees and Random Forest on prescriber tiering, achieving 64% accuracy against 33% baseline; deployed Streamlit dashboard.
+
+---
 
 ### 🌦 Real-Time Weather Analytics Dashboard (Mar 2025 – Apr 2025)  
 - Designed BI dashboards using Dash + Plotly, visualizing weather metrics across 10 cities with automated refresh supporting monitoring accuracy.
