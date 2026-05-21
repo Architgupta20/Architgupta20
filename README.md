@@ -22,33 +22,39 @@
 
 ## 🚀 Projects  
 
+### AI-Powered Healthcare Claim Fraud Detection System
+- Built PySpark pipeline merging 14.6M CMS Open Payments and Medicare Part D, aggregating into 1.38M prescriber-level features for classification.
+-  Modeled rule-based risk scoring (payment-to-cost ratios, opioid volumes, peer deviation), tiering prescribers into 3 categories addressing class imbalance.
+- Trained Gradient Boosted Trees and Random Forest on prescriber tiering, achieving 64% accuracy against 33% baseline; deployed Streamlit dashboard.
+
 ### 🌦 Real-Time Weather Analytics Dashboard (Mar 2025 – Apr 2025)  
-- Built **Streamlit dashboards with Plotly**, visualizing weather metrics across ten cities to support monitoring, reporting, and stakeholder analysis.  
-- Designed **ETL pipelines using Kafka and Spark Structured Streaming**, processing 14,000+ daily records for high-performance analytics and KPI tracking.  
-- Implemented **automated alerting with auto-refresh visualizations**, improving forecasting accuracy and enabling timely, data-driven decision-making for operations and academic stakeholders.  
+- Designed BI dashboards using Dash + Plotly, visualizing weather metrics across 10 cities with automated refresh supporting monitoring accuracy.
+- Developed ETL pipelines with Apache Kafka and Spark Structured Streaming, processing 14,000+ daily records for high-performance streaming analytics.
+- Implemented auto-refreshing Dash visualizations that surface temperature, humidity, and condition trends, enabling live monitoring of weather data.
 
 ---
 
 ### ✍️ ScriptSense: Personality Prediction from Handwriting (Mar 2025 – Apr 2025)  
-- Classified personality traits from **150+ handwriting samples** using **CNNs and graphology**, producing interpretable outputs for educational demonstrations and workshops.  
-- Optimized CNN performance through **feature engineering and robust validation**, achieving a **7% accuracy improvement** and stronger generalization across datasets.  
-- Deployed the application on **Hugging Face Spaces via Streamlit**, achieving ~2.5s response time and generating **60+ user interactions**.  
-
+- Analyzed 150+ handwriting samples using data modeling, predictive analytics, and graphology to classify personality traits with interpretable outputs.
+- Improved CNN accuracy by 7% using feature engineering, optimized preprocessing workflows, and dataset validation techniques for reliability.
+- Deployed the model on Hugging Face Spaces via Streamlit, achieving ~2.5s response time and generating 60+ interactions with actionable user insights.
 ---
 
 ### 📚 PaperBot – AI Research Paper Assistant (Mar 2025 – Apr 2025)  
-- Developed **semantic search pipelines using FAISS and Gemini Pro API**, enabling scalable academic retrieval and knowledge discovery workflows efficiently.  
-- Integrated **keyword-based and natural language queries**, improving retrieval precision and accessibility for research-focused workflows and summaries.  
-- Orchestrated **automated insight generation pipelines** that summarized academic findings, supporting compliance and enabling efficient data storytelling for researchers.  
+- DBuilt semantic search pipeline over abstracts using FAISS vector indexing and Gemini Pro embeddings, enabling retrieval by meaning over keywords.
+- Layered keyword filters with natural-language queries in a hybrid ranking pipeline, improving precision on research topic lookups during testing.  
+- Packaged retrieval and summarization into a Streamlit interface returning ranked papers with Gemini-generated summaries for literature review sessions.
 
 ---
 
 ## 🛠 Skills  
 
-**Languages:** Python | C++ | SQL  
-**Frameworks & Libraries:** TensorFlow | PyTorch | Scikit-learn | Keras | Pandas | NumPy | Matplotlib  
-**Technical Skills:** Machine Learning | NLP | AI Agents | Data Modeling | Computer Vision | Data Warehousing | Image Processing  
-**Tools:** GitHub | Power BI | Jira | VS Code | Onyx OCR  
+**Languages:** Python | SQL | PySpark | Spark Structured Streaming  
+**LLMs & GenAI** RAG Pipelines | Multi-Agent Systems | LLM Evaluation | Prompt Engineering | Semantic Search | Knowledge Graphs
+**LLM Stack:** Gemini API | FAISS | Streamlit | LangChain | LangGraph
+**ML Frameworks:** Keras | Matplotlib | NumPy | Pandas | PyTorch | Scikit-learn | TensorFlow 
+**Tools:** GitHub | Jira | MS Excel | Power BI | VS Code 
+**MLOps & Cloud:** Azure | Docker | Hugging Face Spaces
 **Soft Skills:** Data Governance | Stakeholder Communication | Risk Management | Time Management  
 
 ---
