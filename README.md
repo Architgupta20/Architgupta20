@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Archit Gupta  
 
-🎓 **M.Tech Artificial Intelligence Candidate** @ NMIMS, Mumbai (Batch 2026)  
-💡 Passionate about AI, NLP, Blockchain, and Data Analytics  
-📍 Based in Mumbai, India  
+🎓 **M.Tech Artificial Intelligence Candidate** @ NMIMS, Mumbai (Batch 2026) 
+**Applied AI Engineer** — building production RAG pipelines, multi-agent LLM systems, and evaluation frameworks.  
+🔭 **Currently:** building GenAI products and sharpening LLM evaluation / hallucination-detection workflows   
+📍 Based in Delhi, India  
 
 ---
 
 ## 📖 About Me  
-- Skilled in **Python, SQL, and Power BI**  
+- Shipped GenAI products at **LTIMindtree** and **Toddle**; prior **Software Test Engineer** background that translates directly to LLM evaluation  
+- Skilled in **Python, SQL, PySpark, and Power BI**  
 - Strong foundation in **ETL, data cleaning, and advanced analytics**  
-- Interested in **AI Agents, Computer Vision, NLP, and Streaming Analytics**  
-- Passionate about applying **AI and DeFi** to real-world problem-solving  
+- Interested in **AI Agents, RAG, NLP, and Streaming Analytics**  
 
 ---
 
@@ -56,8 +57,7 @@
 **LLM Stack:** Gemini API | FAISS | Streamlit | LangChain | LangGraph
 **ML Frameworks:** Keras | Matplotlib | NumPy | Pandas | PyTorch | Scikit-learn | TensorFlow 
 **Tools:** GitHub | Jira | MS Excel | Power BI | VS Code 
-**MLOps & Cloud:** Azure | Docker | Hugging Face Spaces
-**Soft Skills:** Data Governance | Stakeholder Communication | Risk Management | Time Management  
+**MLOps & Cloud:** Azure | Docker | Hugging Face Spaces 
 
 ---
 
