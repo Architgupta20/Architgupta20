@@ -2,7 +2,6 @@
  
 Applied AI Engineer — building production RAG pipelines, multi-agent LLM systems, and evaluation frameworks.  
 🎓 **M.Tech Artificial Intelligence Candidate** @ NMIMS, Mumbai (Batch 2026)
-
 🔭 **Currently:** building GenAI products and sharpening LLM evaluation / hallucination-detection workflows   
 📍 Based in Delhi, India  
 
