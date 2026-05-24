@@ -50,16 +50,18 @@
 
 ---
 
-## 🛠 Skills  
+## 🛠 Skills
 
-**Languages:** Python | SQL | PySpark | Spark Structured Streaming  
-**LLMs & GenAI** RAG Pipelines | Multi-Agent Systems | LLM Evaluation | Prompt Engineering | Semantic Search | Knowledge Graphs
-**LLM Stack:** Gemini API | FAISS | Streamlit | LangChain | LangGraph
-**ML Frameworks:** Keras | Matplotlib | NumPy | Pandas | PyTorch | Scikit-learn | TensorFlow 
-**Tools:** GitHub | Jira | MS Excel | Power BI | VS Code 
-**MLOps & Cloud:** Azure | Docker | Hugging Face Spaces 
+**Languages:** Python | SQL | PySpark | Spark Structured Streaming<br>
+**LLMs & GenAI:** RAG Pipelines | Multi-Agent Systems | LLM Evaluation | Prompt Engineering | Semantic Search | Knowledge Graphs<br>
+**LLM Stack:** Gemini API | FAISS | Streamlit | LangChain | LangGraph<br>
+**ML Frameworks:** Keras | Matplotlib | NumPy | Pandas | PyTorch | Scikit-learn | TensorFlow<br>
+**Data & Governance:** ETL | Data Validation | Data Governance | Power BI<br>
+**MLOps & Cloud:** Azure | Docker | Hugging Face Spaces<br>
+**Tools:** GitHub | Jira | MS Excel | VS Code
 
 ---
+
 
 ## 🏅 Achievements & Activities  
 - 🥈 **Silver Medalist** at Amity Sangathan 2018 (Inter Amity Institutions Sports Meet)  
