@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Archit Gupta  
+# 👋 Hi, I'm Archit Gupta
 
-**Applied AI Engineer** — building production RAG pipelines, multi-agent LLM systems, and evaluation frameworks.  
-🎓 M.Tech Artificial Intelligence @ NMIMS, Mumbai (2026)  
-🔭 **Currently:** building GenAI products and sharpening LLM evaluation / hallucination-detection workflows  
-📍 Based in Delhi, India  
+**Applied AI Engineer** — building production RAG pipelines, multi-agent LLM systems, and evaluation frameworks.<br>
+🎓 M.Tech Artificial Intelligence @ NMIMS, Mumbai (2026)<br>
+🔭 **Currently:** building GenAI products and sharpening LLM evaluation / hallucination-detection workflows<br>
+📍 Based in Delhi, India
+
 ---
 
 ## 📖 About Me  
