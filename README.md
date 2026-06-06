@@ -59,7 +59,7 @@
 
 ## 🛠 Skills
 
-**Languages:** Python | SQL | PySpark | Spark Structured Streaming<br>
+**Languages:** Python | SQL | PySpark <br>
 **LLMs & GenAI:** RAG Pipelines | Multi-Agent Systems | LLM Evaluation | Prompt Engineering | Semantic Search | Knowledge Graphs<br>
 **LLM Stack:** Gemini API | FAISS | Streamlit | LangChain | LangGraph<br>
 **ML Frameworks:** Keras | Matplotlib | NumPy | Pandas | PyTorch | Scikit-learn | TensorFlow<br>
@@ -72,7 +72,7 @@
 
 ## 🏅 Achievements & Activities  
 - 🥈 **Silver Medalist** at Amity Sangathan 2018 (Inter Amity Institutions Sports Meet)  
-- 🎖 **Certificate of Merit** at Amity Sangathan 2019  
+- 🎖 **Certificate of Merit** at Amity Sangathan 2019 (Inter Amity Institutions Sports Meet)
 
 ---
 
