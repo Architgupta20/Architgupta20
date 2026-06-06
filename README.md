@@ -23,7 +23,14 @@
 
 ## 🚀 Projects  
 
-### AI-Powered Medicare Prescriber Fraud Detection System (Aug 2025 - Oct 2025)
+### 💼  Job Search Copilot - Full Stack AI Recruiting Assistant (May 2026 – Present)  
+- Building a full-stack Job Search Copilot with Next.js and FastAPI agents for resume parsing, JD tailoring, ATS scoring, and outreach workflow automation.
+- Developing JD tailoring features that rewrite resume bullets with keyword alignment, section traceability, related-term ATS matching, and fact-only optimization rules.
+- Implementing company intelligence capabilities with SerpAPI LinkedIn discovery, Hunter.io email lookup, outreach drafts, and a local application-tracker for job search.
+
+---
+
+### 🏥 AI-Powered Medicare Prescriber Fraud Detection System (Aug 2025 - Oct 2025)
 - Engineered PySpark ETL pipeline processing 1.38M Medicare Part D prescribers and trained ML models achieving 91% validation accuracy.
 - Architected and deployed a Dockerized Streamlit application on Render featuring NPI lookup, rule-based scoring, and batch ML predictions.
 - Integrated PostgreSQL with FastAPI and Streamlit enabling prescriber search, analyst queues, OIG exclusion screening, and authenticated review workflows.
