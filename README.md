@@ -16,7 +16,7 @@
 ---
 
 ## 🎓 Education  
-- **M.Tech in Artificial Intelligence**, MPSTME, NMIMS, Mumbai (Expected May 2026)  
+- **M.Tech in Artificial Intelligence**, MPSTME, NMIMS, Mumbai (May 2026)  
 - **B.Tech in Information Technology**, Amity University, Noida (May 2021)  
 
 ---
@@ -63,9 +63,8 @@
 **LLMs & GenAI:** RAG Pipelines | Multi-Agent Systems | LLM Evaluation | Prompt Engineering | Semantic Search | Knowledge Graphs<br>
 **LLM Stack:** Gemini API | FAISS | Streamlit | LangChain | LangGraph<br>
 **ML Frameworks:** Keras | Matplotlib | NumPy | Pandas | PyTorch | Scikit-learn | TensorFlow<br>
-**Data & Governance:** ETL | Data Validation | Data Governance | Power BI<br>
-**MLOps & Cloud:** Azure | Docker | Hugging Face Spaces<br>
-**Tools:** GitHub | Jira | MS Excel | VS Code
+**MLOps & Cloud:** Azure | Docker | Hugging Face Spaces | Spark Structured Streaming<br>
+**Tools:** Agile/Scrum | GitHub | Jira | MS Excel | Power BI | VS Code
 
 ---
 
